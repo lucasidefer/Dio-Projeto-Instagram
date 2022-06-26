@@ -1,2 +1,3 @@
 # Dio-Projeto-Instagram
-Projeto de criação da página de login do instagram.
+Desafio: Recriando a página inicial do Instagram. .
+Módulo II - HTML/CSS3/JS
